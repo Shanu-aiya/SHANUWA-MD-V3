@@ -1,11 +1,11 @@
 
 <div align="center">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=SHANUWA+MD+)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=SHANUWA+MD+WHATSAPP+BOT+CREATE+BY+SHANUWA+ID)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="130" width="100%">
 
 <p align="center">
- <img src="https://i.imgur.com/LTVGRX8.jpeg"  width="450px">
+ <img src="https://bit.ly/4g0Z9th"  width="450px">
 
 ///////////////CREATE BY=💛QUEEN ISHU💛=LAKSIDU NIMSARA MAHESH//////////////////
 
