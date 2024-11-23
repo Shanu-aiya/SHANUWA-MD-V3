@@ -1,7 +1,7 @@
 
 <div align="center">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=S H A N U W A+ＭＤ+)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=SHANUWA+MD+)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="130" width="100%">
 
 <p align="center">
@@ -45,3 +45,5 @@
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
 </p>
+
+//////////CREATE BY=LAKSIDU NIMSARA MAHESH/////////////
