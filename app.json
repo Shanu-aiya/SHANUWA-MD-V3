@@ -1,0 +1,26 @@
+{
+  "name": "SHANUWA MD",
+  "description": "2024 Best Whatsapp Bot",
+  "logo": "https://bit.ly/4g0Z9th",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Add SHANUWA MD Session ID",
+      "required": false
+    },  
+
+        "MONGODB": {
+      "description": "Put your Mongodb url",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
